@@ -85,6 +85,6 @@
 
       git push origin branchname
 
-![gitpush]()
+![gitpush](https://github.com/Sai-Kumar88789/GitAndGithub/blob/main/screenshots/gitpush.png?raw=true)
 
 -This command  helps for pushing one of the created branches in your local environment to a remote directory or repository.
