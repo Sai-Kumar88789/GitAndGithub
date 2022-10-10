@@ -1,7 +1,7 @@
-1. git add filename
+''' git add filename '''
     ![gitaddcmd](https://github.com/Sai-Kumar88789/GitAndGithub/blob/main/screenshots/gitadd.png?raw=true)
     ![gitadd2cmd](https://github.com/Sai-Kumar88789/GitAndGithub/blob/main/screenshots/gitadd2.png?raw=true)
-    ## This command is used to add the files and their modification into the repository
+    ##### This command is used to add the files and their modification into the repository
     and here " . " is defined all the files  and modifications
 2. git status
     ![gitstatus](https://github.com/Sai-Kumar88789/GitAndGithub/blob/main/screenshots/gitstatus.png?raw=true)
@@ -21,12 +21,13 @@
 7. git checkout <existingbranchname>
     ![switchbranch](https://github.com/Sai-Kumar88789/GitAndGithub/blob/main/screenshots/switchbranch.png?raw=true)
     ## This command is used to switch the branch from current branch
-8. git merge <branchname>
+8.git merge <branchname>
     ![mergebranch](https://github.com/Sai-Kumar88789/GitAndGithub/blob/main/screenshots/mergebranch.png?raw=true)
+
     ## This command is used to merge branch to main branch.
 9.git log
     ![gitlog](https://github.com/Sai-Kumar88789/GitAndGithub/blob/main/screenshots/gitlog.png?raw=true)
-    
+
     ## This command is a tool used for examining a repository’s history and finding a particular version of a project.
 
 
