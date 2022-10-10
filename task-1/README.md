@@ -55,31 +55,31 @@
 
       git log -p
 
-![gitlogp]()
+![gitlogp](https://github.com/Sai-Kumar88789/GitAndGithub/blob/main/screenshots/gitlogp.png?raw=true)
 
 -This git log -p option shows the actual changes made during an edit.
 
       git branch -d branchname
 
-![gitdeletebranch]()
+![gitdeletebranch](https://github.com/Sai-Kumar88789/GitAndGithub/blob/main/screenshots/gitdeletebranch.png?raw=true)
 
 -This command is used to delete the specified branch.
 
 
       git show
-![gitshow]()
+![gitshow](https://github.com/Sai-Kumar88789/GitAndGithub/blob/main/screenshots/gitshow.png?raw=true)
 
 -This is used to display the metadata and all the content related changes of a particular commit.
 
       git rm filename
 
-![removefile]()
+![removefile](https://github.com/Sai-Kumar88789/GitAndGithub/blob/main/screenshots/removefile.png?raw=true)
 
 -This is used to delete the file from the present working directory and is also used to stage the deletion process.
 
       git diff 
 
-![gitdiff]()
+![gitdiff](https://github.com/Sai-Kumar88789/GitAndGithub/blob/main/screenshots/gitdiff.png?raw=true)
 
 -This command is used to display all the differences between the files until the changes have not yet been staged.
 
@@ -87,4 +87,4 @@
 
 ![gitpush]()
 
--
+-This command  helps for pushing one of the created branches in your local environment to a remote directory or repository.
