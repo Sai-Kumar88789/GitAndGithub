@@ -23,5 +23,9 @@
     This command is used to switch the branch from current branch
 8. git merge <branchname>
     ![mergebranch]()
-    This command is used to merge branch to main branch
-9.
+    This command is used to merge branch to main branch.
+9.git log
+    ![gitlog]()
+    This command is a tool used for examining a repository’s history and finding a particular version of a project.
+
+
