@@ -1,1 +1,1 @@
-The basi Git Commands
+# The basic Git Commands
